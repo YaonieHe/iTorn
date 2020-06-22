@@ -2,7 +2,7 @@
 
 这部分内容以plugin/chainGuard/chain_guard.py作一个简单的说明
 
-![Plugin](.\attachments\plugin.png)
+![Plugin](attachments/plugin.png)
 
 ---
 
