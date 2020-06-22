@@ -20,3 +20,5 @@ if __name__ == '__main__':
         interpreter.register_plugin(lottrey_draw)
         interpreter.register_plugin(stock_query)
         interpreter.register_plugin(personal_state_query)
+        
+  // me
